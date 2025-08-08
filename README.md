@@ -18,9 +18,13 @@ The main tools and libraries used in this project are:
 
   Customer Segmentation/
 ├── Analysis_Model.ipynb    # Your Jupyter notebook with model training
+
 ├── app.py                  # Improved Streamlit web application
+
 ├── customer_segmentation.csv  # Your dataset
+
 ├── kmeans_model.pkl       # Trained K-means model
+
 └── scaler.pkl            # Trained StandardScaler
 
 By the end of the notebook, you will have a clear understanding of how to:
