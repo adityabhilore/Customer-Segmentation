@@ -17,6 +17,7 @@ The main tools and libraries used in this project are:
 - **Scikit-learn** – Machine learning algorithms, including K-Means Clustering
 
   Customer Segmentation/
+  
 ├── Analysis_Model.ipynb    # Your Jupyter notebook with model training
 
 ├── app.py                  # Improved Streamlit web application
